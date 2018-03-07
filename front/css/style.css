@@ -1,0 +1,28 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+button {
+	padding: 20px;
+	background: black;
+	color: white;
+	font-weight: bold;
+	display: block;
+	margin-top: 10px;
+}
+button:hover {
+	background: gray;
+}
+#repeat-option {
+	margin-top: 10px;
+}
+#number {
+	padding: 20px;
+	display: block;
+	width: 300px;
+	font-size: 20px;
+}
+#container {
+	margin: 1em auto;
+	width: 75%;
+}
