@@ -1,6 +1,7 @@
 body {
 	margin: 0;
 	padding: 0;
+	font-family: "Mina", serif;
 }
 button {
 	padding: 20px;
@@ -12,6 +13,25 @@ button {
 }
 button:hover {
 	background: gray;
+}
+.sucesso {
+	margin-top: 10px;
+	margin-right: 10px;
+	background: forestgreen;
+	color: white;
+	font-weight: bold;
+	padding: 10px;
+}
+.erro {
+	margin-top: 10px;
+	margin-right: 10px;
+	background: tomato;
+	color: white;
+	font-weight: bold;
+	padding: 10px;
+}
+#result {
+	margin-top: 15px;
 }
 #repeat-option {
 	margin-top: 10px;
